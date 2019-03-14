@@ -1,0 +1,121 @@
+{
+	"msg":"成功",
+	"code":200,
+	"data":[
+	{
+		"id":1,
+		"img":"images/pms1.jpg",
+		"title":"小米9 6GB+128GB",
+		"context":"骁龙855，索尼4800万超广角微距三摄",
+		"price":"2999元"
+	},
+	{
+		"id":2,
+		"img":"images/pms2.jpg",
+		"title":"小米9 6GB+64GB",
+		"context":"索尼4800万超广角三摄，骁龙712",
+		"price":"1999元"
+	},
+	{
+		"id":3,
+		"img":"images/pms3.jpg",
+		"title":"Redmi Note 7 3GB+32G",
+		"context":"4800万拍照千元机，18个月超长质保",
+		"price":"999元"
+	},
+	{
+		"id":4,
+		"img":"images/pms4.png",
+		"title":"小米Play 4GB+64GB",
+		"context":"5.84小水滴全面屏，后置1200万 AI 双摄",
+		"price":"1099元"
+	},
+	{
+		"id":5,
+		"img":"images/pms5.jpg",
+		"title":"小米8青春版6GB+64GB",
+		"context":"潮流镜面渐变色，2400万自拍旗舰",
+		"price":"1499元"
+	},
+	{
+		"id":6,
+		"img":"images/pms6.jpg",
+		"title":"小米8 SE 6GB+64GB",
+		"context":"三星 AMOLED 全面屏，骁龙710",
+		"price":"1599元"
+	},
+	{
+		"id":7,
+		"img":"images/pms7.jpg",
+		"title":"小米6X 6GB+128GB",
+		"context":"轻薄美观的拍照手机",
+		"price":"1499元"
+	},
+	{
+		"id":8,
+		"img":"images/pms8.jpg",
+		"title":"红米6A 2GB+16GB",
+		"context":"12nm高性能处理器，1300万高清相机",
+		"price":"549元"
+	}
+	],	
+	"index":[
+	{
+		"id":1,
+		"img":"images/pms1.jpg",
+		"title":"小米9 6GB+128GB",
+		"context":"骁龙855，索尼4800万超广角微距三摄",
+		"price":"2999元"
+	},
+	{
+		"id":2,
+		"img":"images/pms2.jpg",
+		"title":"小米9 6GB+64GB",
+		"context":"索尼4800万超广角三摄，骁龙712",
+		"price":"1999元"
+	},
+	{
+		"id":3,
+		"img":"images/pms3.jpg",
+		"title":"Redmi Note 7 3GB+32G",
+		"context":"4800万拍照千元机，18个月超长质保",
+		"price":"999元"
+	},
+	{
+		"id":4,
+		"img":"images/pms4.png",
+		"title":"小米Play 4GB+64GB",
+		"context":"5.84小水滴全面屏，后置1200万 AI 双摄",
+		"price":"1099元"
+	},
+	{
+		"id":5,
+		"img":"images/pms5.jpg",
+		"title":"小米8青春版6GB+64GB",
+		"context":"潮流镜面渐变色，2400万自拍旗舰",
+		"price":"1499元"
+	},
+	{
+		"id":6,
+		"img":"images/pms6.jpg",
+		"title":"小米8 SE 6GB+64GB",
+		"context":"三星 AMOLED 全面屏，骁龙710",
+		"price":"1599元"
+	},
+	{
+		"id":7,
+		"img":"images/pms7.jpg",
+		"title":"小米6X 6GB+128GB",
+		"context":"轻薄美观的拍照手机",
+		"price":"1499元"
+	},
+	{
+		"id":8,
+		"img":"images/pms8.jpg",
+		"title":"红米6A 2GB+16GB",
+		"context":"12nm高性能处理器，1300万高清相机",
+		"price":"549元"
+	}	
+	
+	]
+}
