@@ -4,7 +4,7 @@
 	"data":[
 	{
 		"id":1,
-		"img":"images/pms1.jpg",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/b3553083a4975325eab6470d94465548.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"小米9 6GB+128GB",
 		"context":"骁龙855，索尼4800万超广角微距三摄",
 		"price":"2999元"
