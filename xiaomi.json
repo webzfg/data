@@ -11,111 +11,52 @@
 	},
 	{
 		"id":2,
-		"img":"images/pms2.jpg",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/68217751d12b1bfd2f9766e458b5e2dd.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"小米9 6GB+64GB",
 		"context":"索尼4800万超广角三摄，骁龙712",
 		"price":"1999元"
 	},
 	{
 		"id":3,
-		"img":"images/pms3.jpg",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/73617424da6ff6b64f9c630387bca874.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"Redmi Note 7 3GB+32G",
 		"context":"4800万拍照千元机，18个月超长质保",
 		"price":"999元"
 	},
 	{
 		"id":4,
-		"img":"images/pms4.png",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/5a260090e0e08770b0bd865845a4b4ab.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"小米Play 4GB+64GB",
 		"context":"5.84小水滴全面屏，后置1200万 AI 双摄",
 		"price":"1099元"
 	},
 	{
 		"id":5,
-		"img":"images/pms5.jpg",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/0099822e42b4428cb25c4cdebc6ca53d.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"小米8青春版6GB+64GB",
 		"context":"潮流镜面渐变色，2400万自拍旗舰",
 		"price":"1499元"
 	},
 	{
 		"id":6,
-		"img":"images/pms6.jpg",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/4e75e528fb468aee107f551179aa0799.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"小米8 SE 6GB+64GB",
 		"context":"三星 AMOLED 全面屏，骁龙710",
 		"price":"1599元"
 	},
 	{
 		"id":7,
-		"img":"images/pms7.jpg",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/de2f71a797a74e1ca70f1fb4570bc026.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"小米6X 6GB+128GB",
 		"context":"轻薄美观的拍照手机",
 		"price":"1499元"
 	},
 	{
 		"id":8,
-		"img":"images/pms8.jpg",
+		"img":"https://cdn.cnbj1.fds.api.mi-img.com/mi-mall/13f10e47913f9dc82e6c6a6199f413cd.jpg?thumb=1&w=250&h=250&f=webp&q=90",
 		"title":"红米6A 2GB+16GB",
 		"context":"12nm高性能处理器，1300万高清相机",
 		"price":"549元"
 	}
-	],	
-	"index":[
-	{
-		"id":1,
-		"img":"images/pms1.jpg",
-		"title":"小米9 6GB+128GB",
-		"context":"骁龙855，索尼4800万超广角微距三摄",
-		"price":"2999元"
-	},
-	{
-		"id":2,
-		"img":"images/pms2.jpg",
-		"title":"小米9 6GB+64GB",
-		"context":"索尼4800万超广角三摄，骁龙712",
-		"price":"1999元"
-	},
-	{
-		"id":3,
-		"img":"images/pms3.jpg",
-		"title":"Redmi Note 7 3GB+32G",
-		"context":"4800万拍照千元机，18个月超长质保",
-		"price":"999元"
-	},
-	{
-		"id":4,
-		"img":"images/pms4.png",
-		"title":"小米Play 4GB+64GB",
-		"context":"5.84小水滴全面屏，后置1200万 AI 双摄",
-		"price":"1099元"
-	},
-	{
-		"id":5,
-		"img":"images/pms5.jpg",
-		"title":"小米8青春版6GB+64GB",
-		"context":"潮流镜面渐变色，2400万自拍旗舰",
-		"price":"1499元"
-	},
-	{
-		"id":6,
-		"img":"images/pms6.jpg",
-		"title":"小米8 SE 6GB+64GB",
-		"context":"三星 AMOLED 全面屏，骁龙710",
-		"price":"1599元"
-	},
-	{
-		"id":7,
-		"img":"images/pms7.jpg",
-		"title":"小米6X 6GB+128GB",
-		"context":"轻薄美观的拍照手机",
-		"price":"1499元"
-	},
-	{
-		"id":8,
-		"img":"images/pms8.jpg",
-		"title":"红米6A 2GB+16GB",
-		"context":"12nm高性能处理器，1300万高清相机",
-		"price":"549元"
-	}	
-	
 	]
 }
